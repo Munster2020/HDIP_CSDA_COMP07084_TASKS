@@ -24,7 +24,7 @@ Write a Python function called dicerolls that simulates rolling dice. Your funct
 
 __Addendum__: You can use any module from the Python standard library you wish and you should include a description with references of your algorithm in the notebook.
 
-__Learnings__: Building on what I learned in Task 1, Task 2 introduced the concept of random number generation. Due to the change in how the random number generator works in NumPy I struggled with this one. However, upon studying the NumPy documentation I managed to get to grips with this task in the end. 
+__Learnings__: Building on what I learned in Task 1, Task 2 introduced the concept of random number generation. Due to the change in how the random number generator works in NumPy I struggled with this one. However, upon studying the NumPy documentation I managed to get to grips with this task in the end. For this task I again had to create a function using a for loop, dictionary and implement the NumPy RNG.
 
 ### Task 3
 
