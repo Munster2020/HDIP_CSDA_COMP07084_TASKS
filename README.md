@@ -3,11 +3,13 @@
 ## Fundamentals of Data Analysis (COMP07084) - Tasks 2020
 
 ### Repository Structure
+1. Readme:
+[README.md](https://github.com/Munster2020/HDIP_CSDA_COMP07084_TASKS/blob/main/README.md)
 
-1. Jupyter Notebook:
+2. Jupyter Notebook:
 [tasks2020.ipynb](https://github.com/Munster2020/HDIP_CSDA_COMP07084_TASKS/blob/main/tasks2020.ipynb)
 
-2. PDF of Jupyter Notebook:
+3. PDF of Jupyter Notebook:
 [tasks2020.pdf](https://github.com/Munster2020/HDIP_CSDA_COMP07084_TASKS/blob/main/tasks2020.pdf)
 
 
