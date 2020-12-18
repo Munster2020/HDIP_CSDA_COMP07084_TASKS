@@ -53,6 +53,8 @@ Write some python code that simulates flipping a coin 100 times.  Then run this 
 
 __Learnings__: I found this task interesting because with only a few lines of code you could generate and solve the probability of a coin toss. I would have thought this would have been a complicated process but to my surprise NumPy could do it efficiently and with limited amount of coding. This task also introduced the concept of probability distributions which I found very interesting if difficult to understand. One of the problems I encountered was trying to find detailed real world examples of using them for the beginner, not so much for this task but for other more complicated real world phenomenon.
 
+__Topics__: random number generation, numpy, simulation, binomial, distribution, coin toss, fair coin.
+
 ---
 
 ### Task 4 - Simpson's Paradox
