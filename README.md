@@ -1,7 +1,6 @@
 ![GMIT Logo](https://github.com/Munster2020/HDIP_CSDA_PROJECT/blob/master/GMIT_Logo.jpg)
 # Higher Diploma in Science in Computing (Data Analytics)
-## Fundamentals of Data Analysis (COMP07084)
-### Tasks 2020
+## Fundamentals of Data Analysis (COMP07084) - Tasks 2020
 
 If you have any issues viewing tasks2020.ipynb in github you can use Jupyter NBViewer which is a web application behind The Jupyter Notebook Viewer at https://nbviewer.jupyter.org/
 
