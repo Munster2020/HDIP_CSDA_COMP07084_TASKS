@@ -1,6 +1,7 @@
 ![GMIT Logo](https://github.com/Munster2020/HDIP_CSDA_PROJECT/blob/master/GMIT_Logo.jpg)
 # Higher Diploma in Science in Computing (Data Analytics)
 ## Fundamentals of Data Analysis (COMP07084) - Tasks 2020
+This module was an introduction to the fundamentals of data analysis, including the acquisition, cleaning and exploration of data sets. As part of the assessment we had to complete four tasks outlined below.
 
 ### 1. Repository Structure
 1. Readme:
