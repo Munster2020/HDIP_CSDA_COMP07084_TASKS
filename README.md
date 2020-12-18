@@ -29,6 +29,8 @@ __Clarification__: You cannot use any part of the standard library that has to b
 
 __Learnings__: From working on this task I developed my knowledge of functions and how to implement them. In order to solve the task the function created and implemented a for loop and populated a dictionary to capture the results. I also gained a better understanding of "argument specifiers". Further detail and references are included in the Jupyter Notebook. I also learned to download and add additional functionality in Jupyter Notebooks, including using the add-ons "Autopep8", "spellchecker" and "Table of Contents(2)". Autopep8 is excellent for formatting your code correctly, while spellchecker comes in handy in correcting thos pesky spelling mistakes.
 
+__Topics__: functions, for loops, dictionaries, lists, argument specifiers.
+
 ---
 
 ### Task 2 - dicerolls
