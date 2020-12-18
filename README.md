@@ -41,6 +41,8 @@ __Addendum__: You can use any module from the Python standard library you wish a
 
 __Learnings__: Building on what I learned in Task 1, Task 2 introduced the concept of random number generation. Due to the change in how the random number generator works in NumPy I struggled with this one. However, upon studying the NumPy documentation I managed to get to grips with this task in the end. For this task I again had to create a function using a for loop, dictionary and implement the NumPy RNG.
 
+__Topics__: random number generation, numpy, simulation, functions, for loops, dictionaries.
+
 ---
 
 ### Task 3 - numpy.random.binomial
