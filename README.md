@@ -32,6 +32,10 @@ The numpy.random.binomial function can be used to simulate flipping a coin with 
 
 Write some python code that simulates flipping a coin 100 times.  Then run this code 1,000 times, keeping trackof  the  number  of  heads  in  each  of  the  1,000  simulations.   Select  an  appropriate plot to depict the resulting list of 1,000 numbers, showing that it roughly follows a bell-shaped curve.  You should explain your work in a Markdown cell above the code.
 
+__Learnings__: I found this task interesting because with only a few lines of code you could generate and solve the probability of a coin toss. I would have thought this would have been a complicated process but to my surprise NumPy could do it efficiently and with limited amount of coding. This task also introduced the concept of probability distributions which I found very interesting if difficult to understand. One of the problems I encountered was trying to find detailed real world examples of using them for the beginner, not so much for this task but for other more complicated real world phenomenon.
+
 ### Task 4
 
 Simpson’s paradox is a well-known statistical paradox where a trend evident in a number of groups reverses when the groups are combined into one big data set. Use numpy to create four data sets, each with an x array and a corresponding y array, to demonstrate Simpson’s paradox. You might create your x arrays using numpy.linspace and create the y array for each x using notation like y = a * x + b where you choose the a and b for each x, y pair to demonstrate the paradox. You might see the Wikipedia page for Simpson’s paradox for inspiration.
+
+__Learnings__: This task I really struggled with, I understood the concept but couldn't get my head around how to implement it. The end result displayed a chart that looks like Simpson's Paradox but to get that point took some serious head scratching. I was confused by the wording of the question and the fact I couldn't find any detailed information on how to implement it using Python. The end result I think explains it, but I must do some follow up reading on this.
