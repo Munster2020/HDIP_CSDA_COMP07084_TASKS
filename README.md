@@ -17,7 +17,7 @@ If you have any issues viewing tasks2020.ipynb in github you can use Jupyter NBV
 
 ---
 
-### Task 1
+### Task 1 -counts
 
 __Problem statement__: Write a Python function called counts that takes a list as input and returns a dictionary of unique items in the list as keys and the number of times each item appears as values. So, the input ['A','A','B','C','A'] should have output {'A': 3,'B': 1,'C': 1}.
 
@@ -31,7 +31,7 @@ __Learnings__: From working on this task I developed my knowledge of functions a
 
 ---
 
-### Task 2
+### Task 2 - dicerolls
 
 __Problem statement__: Write a Python function called dicerolls that simulates rolling dice. Your function should take two parameters: the number of dice k and the number of times to roll the dice n. The function should simulate randomly rolling k dice n times, keeping track of each total face value. It should then return a dictionary with the number of times each possible total face value occurred. So, calling the function as diceroll (k=2, n=1000) should return a dictionary like: {2:19,3:50,4:82,5:112,6:135,7:174,8:133,9:114,10:75,11:70,12:36}
 
@@ -41,7 +41,7 @@ __Learnings__: Building on what I learned in Task 1, Task 2 introduced the conce
 
 ---
 
-### Task 3
+### Task 3 - numpy.random.binomial
 
 __Problem statement__: The numpy.random.binomial function can be used to simulate flipping a coin with a 50/50 chance of heads or tails.  Interestingly, if a coin is flipped many times then the number of heads is well approximated by a bell-shaped curve.  For instance, if we flip a coin 100 times in a row the chance of getting 50 heads is relatively high, the chances of getting 0 or 100 heads is relatively low, and the chances of getting any other number of heads decreases as you move away from 50 in either direction towards 0 or 100.  
 
@@ -51,7 +51,7 @@ __Learnings__: I found this task interesting because with only a few lines of co
 
 ---
 
-### Task 4
+### Task 4 - Simpson's Paradox
 
 __Problem statement__: Simpson’s paradox is a well-known statistical paradox where a trend evident in a number of groups reverses when the groups are combined into one big data set. Use numpy to create four data sets, each with an x array and a corresponding y array, to demonstrate Simpson’s paradox. You might create your x arrays using numpy.linspace and create the y array for each x using notation like y = a * x + b where you choose the a and b for each x, y pair to demonstrate the paradox. You might see the Wikipedia page for Simpson’s paradox for inspiration.
 
