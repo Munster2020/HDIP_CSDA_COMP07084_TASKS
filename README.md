@@ -7,6 +7,8 @@
 1. Jupyter Notebook:
 [tasks2020.ipynb](https://github.com/Munster2020/HDIP_CSDA_COMP07084_TASKS/blob/main/tasks2020.ipynb)
 
+2. PDF of Jupyter Notebook:
+[tasks2020.pdf](https://github.com/Munster2020/HDIP_CSDA_COMP07084_TASKS/blob/main/tasks2020.pdf)
 
 
 If you have any issues viewing tasks2020.ipynb in github you can use Jupyter NBViewer which is a web application behind The Jupyter Notebook Viewer at https://nbviewer.jupyter.org/
