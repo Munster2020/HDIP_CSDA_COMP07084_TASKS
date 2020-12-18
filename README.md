@@ -16,9 +16,8 @@
 If you have any issues viewing tasks2020.ipynb in github you can use Jupyter NBViewer which is a web application behind The Jupyter Notebook Viewer at https://nbviewer.jupyter.org/
 
 
-![logo](https://github.com/Munster2020/HDIP_CSDA_COMP07084_TASKS/blob/main/images/cmdr.png "Cmder"))
-![Cmdr](https://cmder.net/)
-provides you with an alternative to the Windows default command prompt utility through a more capable console emulator that also comes packing a good-looking graphical user interface. (Source:downloads.com)
+![logo](https://github.com/Munster2020/HDIP_CSDA_COMP07084_TASKS/blob/main/images/cmdr.png "Cmder")
+![Cmdr](https://cmder.net/) provides you with an alternative to the Windows default command prompt utility through a more capable console emulator that also comes packing a good-looking graphical user interface. (Source:downloads.com)
 
 ---
 
